@@ -1,0 +1,8 @@
+node_modules/
+.hbuilderx/
+unpackage/
+.project
+.DS_Store
+.history
+.hbuilderx/launch.json
+.idea
